@@ -1,0 +1,58 @@
+body{
+    font-family: 'Manrope' ,sans-serif;
+    width: 100%;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 100%;
+    letter-spacing: -0.03em;
+    background-color: #FFFFFF;
+    color: #121212;
+    margin: 137px 316px 30px 128px;
+}
+.design{
+    width: 1150px;
+    height: 500px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%), url("path_to_image");
+    background-image: url(../resources/design.png);
+    margin-left: 128px;
+}
+.image-text{
+    width: 430px;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    padding:379px 680px 40px 40px ;
+}
+h2{
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.03em;
+    margin-top: 141px;
+    margin-left: 125PX;
+    color: #121212;
+}
+.about{
+    width: 1048px;
+    height: 366px;
+    font-weight: 400;
+    font-size: 45px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    margin-left: 128px;
+    margin-top: 30px;   
+}
+.button-services{
+    background-color: #AD1818;
+    color: #FFFFFF; 
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px 40px;
+    width: 255px;
+    height: 67px;
+    margin-top: 30px;
+    margin-left: 125px;
+}
